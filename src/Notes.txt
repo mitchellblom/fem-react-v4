@@ -1,0 +1,13 @@
+// npx prettier src/App.js // that command fixes it
+// npx prettier src/App.js --write // that command fixes it and overwrites the file
+
+// turned on Format On Save in Settings=>User Settings
+// turned on Format On Save in Settings=>User Settings
+
+// added to package.json:
+// "format": "prettier --write \"src/**/.{js,jsx,css,json} \" ",
+
+// created .eslintrc.json, wrote in it, and ran:
+// npm i -D eslint-config-prettier
+// npm i -D eslint-plugin-prettier
+
