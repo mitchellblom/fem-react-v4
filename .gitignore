@@ -184,3 +184,6 @@ FakesAssemblies/
 .DS_Store
 
 *StaticVariables.cs
+
+# React Build
+dist/
