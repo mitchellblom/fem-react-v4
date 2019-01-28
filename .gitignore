@@ -185,5 +185,6 @@ FakesAssemblies/
 
 *StaticVariables.cs
 
-# React Build
+# React tutorial
 dist/
+.env
