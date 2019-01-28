@@ -2,7 +2,7 @@
 
 <hr>
 
-## Complete Intro to React v4 :
+## Complete Intro to React v4
 
 <hr>
 
